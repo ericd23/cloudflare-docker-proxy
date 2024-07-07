@@ -7,8 +7,8 @@ const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
   // production
-  "docker.cfw.ericd.me": dockerHub,
-  "ghcr.cfw.ericd.me": "https://ghcr.io",
+  "docker.ericd.me": dockerHub,
+  "ghcr.ericd.me": "https://ghcr.io",
 
   // staging
   "docker-staging.ericd.me": dockerHub,
